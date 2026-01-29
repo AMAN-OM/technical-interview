@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="./interview.png" width="400" height="300" />
+    <img src="./interview.png" width="501" height="445" />
 </p>
 
 </br>
