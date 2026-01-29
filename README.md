@@ -15,6 +15,50 @@
 ---
 
 # Contents
+
+## About This Repository
+
+This repository serves as a comprehensive **interview preparation resource** for technical interviews at Aman - Consultancy & Technology. It contains curated questions, topics, and practical test projects designed to help candidates prepare for various technical roles.
+
+### Repository Structure
+
+The repository is organized into the following sections:
+
+1. **Introduction Questions** - General interview questions to get started
+2. **Backend** - Backend development topics and questions
+   - **General** - Cross-platform backend concepts (databases, design patterns, microservices, etc.)
+   - **Technology-Specific** - Framework and language-specific content (`.NET`, `Golang`, etc.)
+3. **Frontend** - Frontend development topics and questions
+   - **General** - Core web technologies (HTML, CSS, JavaScript, TypeScript)
+   - **Framework-Specific** - Modern frontend frameworks (`React`, `Vue`, `Angular`)
+4. **Test Projects** - Practical coding challenges for all developer levels
+
+### How to Use This Repository
+
+Each section contains two types of content:
+
+- **Categories** - Conceptual explanations, definitions, and key topics organized by subject
+- **Questions** - Interview questions and scenarios related to those categories
+
+**Recommended approach:**
+1. Start with the introduction questions to understand the interview format
+2. Review categories relevant to your role (backend/frontend, specific technologies)
+3. Practice answering the questions in each category
+4. Complete test projects to demonstrate practical skills
+
+### Test Projects
+
+At the end of the contents list, you'll find **test projects** designed for candidates at different developer levels. These are practical coding challenges that simulate real-world scenarios and help assess:
+
+- Problem-solving abilities
+- Code quality and architecture
+- Understanding of best practices
+- Ability to work with specific technology stacks
+
+Each test project includes detailed requirements, acceptance criteria, and a grading rubric to help you understand expectations and prepare accordingly.
+
+---
+
 - • [introduction](./introduction-questions.md)
 - • [backend](./backend)
     - • [general](./backend/general)
